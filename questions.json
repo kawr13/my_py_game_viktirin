@@ -1,32 +1,141 @@
 [
   {
-    "q": "How many days do we have in a week?",
+    "q": "What year did Columbus discover America?",
     "d": "1",
-    "a": "7"
+    "a": "1492",
+    "f": "false"
   },
   {
-    "q": "How many days do we have in a week?",
-    "d": "1",
-    "a": "7"
+    "q": "In what year did World War II end?",
+    "d": "2",
+    "a": "1945",
+    "f": "false"
   },
   {
-    "q": "How many letters are there in the English alphabet?",
+    "q": "Who was the first president of the United States?",
+    "d": "1",
+    "a": "George Washington",
+    "f": "false"
+  },
+  {
+    "q": "What year did the French Revolution begin?",
+    "d": "2",
+    "a": "1789",
+    "f": "false"
+  },
+  {
+    "q": "Who wrote the Communist Manifesto?",
+    "d": "2",
+    "a": "Karl Marx",
+    "f": "false"
+  },
+  {
+    "q": "In what year did the Berlin Wall fall?",
     "d": "3",
-    "a": "26"
+    "a": "1989",
+    "f": "false"
   },
   {
-    "q": "How many sides are there in a triangle?",
+    "q": "Which country was NOT involved in World War I?",
+    "d": "1",
+    "a": "Switzerland",
+    "f": "false"
+  },
+  {
+    "q": "Who was the first female Prime Minister of Great Britain?",
     "d": "2",
-    "a": "3"
+    "a": "Margaret Thatcher",
+    "f": "false"
   },
   {
-    "q": "How many years are there in one Millennium?",
+    "q": "What year did India gain independence from Britain?",
+    "d": "3",
+    "a": "1947",
+    "f": "false"
+  },
+  {
+    "q": "Who was the leader of the Soviet Union during World War II?",
     "d": "2",
-    "a": "1000"
+    "a": "Joseph Stalin",
+    "f": "false"
   },
   {
-    "q": "How many sides does hexagon have?",
-    "d": "4",
-    "a": "6"
+    "q": "In what year did the American Civil War end?",
+    "d": "1",
+    "a": "1865",
+    "f": "false"
+  },
+  {
+    "q": "Which country was NOT involved in World War II?",
+    "d": "3",
+    "a": "Sweden",
+    "f": "false"
+  },
+  {
+    "q": "What was the main cause of the French Revolution?",
+    "d": "1",
+    "a": "Inequality and poverty",
+    "f": "false"
+  },
+  {
+    "q": "Who was the first person to circumnavigate the world?",
+    "d": "3",
+    "a": "Ferdinand Magellan",
+    "f": "false"
+  },
+  {
+    "q": "What year did the Russian Revolution take place?",
+    "d": "2",
+    "a": "1917",
+    "f": "false"
+  },
+  {
+    "q": "Which country was the first to use atomic weapons in war?",
+    "d": "3",
+    "a": "United States",
+    "f": "false"
+  },
+  {
+    "q": "Who was the first European explorer to reach India by sea?",
+    "d": "2",
+    "a": "Vasco da Gama",
+    "f": "false"
+  },
+  {
+    "q": "In what year did the Korean War begin?",
+    "d": "1",
+    "a": "1950",
+    "f": "false"
+  },
+  {
+    "q": "What was the name of the ship on which Darwin sailed around the world?",
+    "d": "3",
+    "a": "HMS Beagle",
+    "f": "false"
+  },
+  {
+    "q": "What year did the Battle of Hastings take place?",
+    "d": "1",
+    "a": "1066",
+    "f": "false"
+  },
+  {
+    "q": "Who was the leader of Nazi Germany during World War II?",
+    "d": "2",
+    "a": "Adolf Hitler",
+    "f": "false"
+  },
+  {
+    "q": "What year did the Magna Carta guarantee basic rights for English citizens?",
+    "d": "3",
+    "a": "1215",
+    "f": "false"
+  },
+  {
+    "q": "Which country was NOT involved in the Cold War?",
+    "d": "1",
+    "a": "Japan",
+    "f": "false"
   }
 ]
+
